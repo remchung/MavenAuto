@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-01-20T23:48:14 ICT" name="Default suite" finished-at="2023-01-20T23:48:39 ICT" duration-ms="24555">
+    <groups>
+    </groups>
+    <test started-at="2023-01-20T23:48:14 ICT" name="Default test" finished-at="2023-01-20T23:48:39 ICT" duration-ms="24555">
+      <class name="TestCase.test01">
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:TestCase.test01@27e7c77f]" started-at="2023-01-20T23:48:14 ICT" name="beforeMethod" finished-at="2023-01-20T23:48:14 ICT" duration-ms="20" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="GotoLandingpPage()[pri:0, instance:TestCase.test01@27e7c77f]" started-at="2023-01-20T23:48:14 ICT" name="GotoLandingpPage" finished-at="2023-01-20T23:48:22 ICT" duration-ms="8169" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- GotoLandingpPage -->
+        <test-method is-config="true" signature="AfterMethod()[pri:0, instance:TestCase.test01@27e7c77f]" started-at="2023-01-20T23:48:22 ICT" name="AfterMethod" finished-at="2023-01-20T23:48:39 ICT" duration-ms="16289" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AfterMethod -->
+      </class> <!-- TestCase.test01 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
